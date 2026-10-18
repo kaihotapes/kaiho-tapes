@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cassette for sale</title>
+    <meta name="description" content="Small cassette catalog for sale" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Cassette for sale</h1>
+      <p class="subtitle">Кассеты · цены в ₽ · пишите, если что-то заинтересовало</p>
+    </header>
+
+    <section class="filters" aria-label="Фильтры">
+      <label class="field grow">
+        <span>Поиск</span>
+        <input id="q" type="search" placeholder="название или лейбл" autocomplete="off" />
+      </label>
+      <label class="field">
+        <span>Жанр</span>
+        <select id="genre">
+          <option value="">все</option>
+        </select>
+      </label>
+      <label class="field">
+        <span>Страна</span>
+        <select id="country">
+          <option value="">все</option>
+        </select>
+      </label>
+      <label class="field">
+        <span>Год от</span>
+        <input id="yearFrom" type="number" min="1900" max="2100" placeholder="—" />
+      </label>
+      <label class="field">
+        <span>Год до</span>
+        <input id="yearTo" type="number" min="1900" max="2100" placeholder="—" />
+      </label>
+      <label class="field">
+        <span>Цена от</span>
+        <input id="priceFrom" type="number" min="0" step="50" placeholder="—" />
+      </label>
+      <label class="field">
+        <span>Цена до</span>
+        <input id="priceTo" type="number" min="0" step="50" placeholder="—" />
+      </label>
+      <button id="reset" type="button" class="reset">Сбросить</button>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Фото</th>
+            <th>Название</th>
+            <th>Жанры</th>
+            <th>Год</th>
+            <th>Страна</th>
+            <th>Лейбл</th>
+            <th>Цена</th>
+            <th>Слушать</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+
+    <div class="cards" id="cards" hidden></div>
+
+    <footer class="footer">
+      <p>Обложки сохранены локально. Данные из каталога for sale.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

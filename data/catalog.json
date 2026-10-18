@@ -1,0 +1,471 @@
+[
+  {
+    "id": "6473157",
+    "title": "Читай Букварь | Bookwar - Фронт Освобождения Насекомых",
+    "genres": [
+      "experimental",
+      "industrial",
+      "noise",
+      "ambient",
+      "lo-fi"
+    ],
+    "year": 2015,
+    "country": "Московская область, Россия",
+    "label": "Bookwar Records (Россия)",
+    "price": 400,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://bookwar.bandcamp.com/album/-"
+    },
+    "image": "images/covers/6473157.jpg"
+  },
+  {
+    "id": "2521659",
+    "title": "Betty - Primeval",
+    "genres": [
+      "noise"
+    ],
+    "year": 2006,
+    "country": "Великобритания",
+    "label": "BTR (Великобритания)",
+    "price": 600,
+    "listen": null,
+    "image": "images/covers/2521659.jpg"
+  },
+  {
+    "id": "7883231",
+    "title": "Castletroy - Castletroy",
+    "genres": [
+      "avantgarde",
+      "indie rock"
+    ],
+    "year": 2015,
+    "country": "Саратов, Россия",
+    "label": "Winter Sea Label, Drowning Polar Bears (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://castletroy.bandcamp.com/album/castletroy"
+    },
+    "image": "images/covers/7883231.jpg"
+  },
+  {
+    "id": "3947594",
+    "title": "Charlatan / Clathrus - Charlatan / Clathrus",
+    "genres": [
+      "experimental",
+      "ambient"
+    ],
+    "year": 2012,
+    "country": "США / Россия",
+    "label": "Full Of Nothing (Россия)",
+    "price": 600,
+    "listen": null,
+    "image": "images/covers/3947594.jpg"
+  },
+  {
+    "id": "11519022",
+    "title": "Isa - Небо в солёных колодцах",
+    "genres": [
+      "ambient",
+      "experimental",
+      "post rock"
+    ],
+    "year": 2018,
+    "country": "Россия",
+    "label": "Шум Деревьев Records (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://isaz.bandcamp.com/album/the-sky-in-the-salty-wells"
+    },
+    "image": "images/covers/11519022.jpg"
+  },
+  {
+    "id": "11874661",
+    "title": "Japanese babY - 7",
+    "genres": [
+      "shoegaze",
+      "lo-fi",
+      "psychedelic rock"
+    ],
+    "year": 2016,
+    "country": "Краснодар, Россия",
+    "label": "Гусь Рекордс (Россия)",
+    "price": 600,
+    "listen": null,
+    "image": "images/covers/11874661.jpg"
+  },
+  {
+    "id": "7007879",
+    "title": "Krobak - The Diary Of The Missed One",
+    "genres": [
+      "post rock"
+    ],
+    "year": 2015,
+    "country": "Украина",
+    "label": "Freak Friendly D.I.Y. (Украина)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://krobak.bandcamp.com/album/the-diary-of-the-missed-one"
+    },
+    "image": "images/covers/7007879.jpg"
+  },
+  {
+    "id": "11977852",
+    "title": "Lemones - Parasites By The Trashboard Side",
+    "genres": [
+      "lo-fi",
+      "noise",
+      "punk"
+    ],
+    "year": 2018,
+    "country": "Брюссель, Бельгия",
+    "label": "Post-Materialization Music (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://thelemones.bandcamp.com/album/parasites-by-the-trashboard-side"
+    },
+    "image": "images/covers/11977852.jpg"
+  },
+  {
+    "id": "6939477",
+    "title": "Merry Bread / Планета им. Сахарова - Масло",
+    "genres": [
+      "noise"
+    ],
+    "year": 2011,
+    "country": "Россия",
+    "label": "BMFSML (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://merrybread.bandcamp.com/album/oil"
+    },
+    "image": "images/covers/6939477.jpg"
+  },
+  {
+    "id": "4076051",
+    "title": "Mitchell Brennan - Eminent Domain / Mill No. 1",
+    "genres": [
+      "experimental",
+      "noise"
+    ],
+    "year": 2012,
+    "country": "Австралия",
+    "label": "Mazurka Editions (Австралия)",
+    "price": 600,
+    "listen": null,
+    "image": "images/covers/4076051.jpg"
+  },
+  {
+    "id": "12714656",
+    "title": "Murat Göğebakan - Sen Rahatına Bak",
+    "genres": [
+      "folk rock"
+    ],
+    "year": 1998,
+    "country": "Турция",
+    "label": "Sindoma Müzik, Orjin Müzik (Турция)",
+    "price": 600,
+    "listen": null,
+    "image": "images/covers/12714656.jpg"
+  },
+  {
+    "id": "16238280",
+    "title": "Por Favor - I",
+    "genres": [
+      "punk",
+      "hardcore"
+    ],
+    "year": 2020,
+    "country": "Россия",
+    "label": "Teenage Waste Records (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://porfavor.bandcamp.com/album/i"
+    },
+    "image": "images/covers/16238280.jpg"
+  },
+  {
+    "id": "5802373",
+    "title": "Southern Radio - The Great Beauty",
+    "genres": [
+      "punk",
+      "indie rock"
+    ],
+    "year": 2014,
+    "country": "Черновцы, Украина",
+    "label": ".aorte (Украина)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://southernradio.bandcamp.com/album/the-great-beauty"
+    },
+    "image": "images/covers/5802373.jpg"
+  },
+  {
+    "id": "15956032",
+    "title": "Sårskader - Dead Compilation",
+    "genres": [
+      "atmospheric black metal",
+      "depressive black metal"
+    ],
+    "year": 2017,
+    "country": "Тольятти, Россия",
+    "label": "Танцы До Неба Records (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://srskdr.bandcamp.com/album/s-rskader-dead-compilation-2017"
+    },
+    "image": "images/covers/15956032.jpg"
+  },
+  {
+    "id": "26961548",
+    "title": "Кобра - Rock'n'Roll Annihilation",
+    "genres": [
+      "punk"
+    ],
+    "year": 2022,
+    "country": "Россия",
+    "label": "City To City Records (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://kobra1312.bandcamp.com/album/rocknroll-annihilation"
+    },
+    "image": "images/covers/26961548.jpg"
+  },
+  {
+    "id": "9628086",
+    "title": "Матушка-Гусыня - Moves Like An Ugol",
+    "genres": [
+      "punk",
+      "prog rock"
+    ],
+    "year": 2016,
+    "country": "Санкт-Петербург, Россия",
+    "label": "Broken Face Airways (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://matushka.bandcamp.com/album/moves-like-an-ugol"
+    },
+    "image": "images/covers/9628086.jpg"
+  },
+  {
+    "id": "4500106",
+    "title": "Various - Хулиганы",
+    "genres": [
+      "hip hop",
+      "rock"
+    ],
+    "year": 2002,
+    "country": "",
+    "label": "Neotstoy Production (Россия)",
+    "price": 700,
+    "listen": null,
+    "image": "images/covers/4500106.jpg"
+  },
+  {
+    "id": "5119677",
+    "title": "Bomg - Polynseeds",
+    "genres": [
+      "doom metal",
+      "psychedelic rock",
+      "stoner rock"
+    ],
+    "year": 2013,
+    "country": "Киев, Украина",
+    "label": "Freak Friendly D.I.Y. (Украина)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://bomg.bandcamp.com/album/polynseeds"
+    },
+    "image": "images/covers/5119677.jpg"
+  },
+  {
+    "id": "2358612",
+    "title": "Content Nullity - Absolute Dread",
+    "genres": [
+      "industrial",
+      "dark ambient",
+      "noise"
+    ],
+    "year": 2010,
+    "country": "Великобритания",
+    "label": "Phage Tapes (США)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://phagetapes.bandcamp.com/album/absolute-dread"
+    },
+    "image": "images/covers/2358612.jpg"
+  },
+  {
+    "id": "11642107",
+    "title": "Fuc Lerrari / Nean Jégroni - Souvenirs Uchroniques",
+    "genres": [
+      "experimental",
+      "ambient",
+      "musique concrète",
+      "rhythmic noise"
+    ],
+    "year": 2018,
+    "country": "Франция",
+    "label": "Fougère (Франция)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://fougeremusique.bandcamp.com/album/souvenirs-uchroniques"
+    },
+    "image": "images/covers/11642107.jpg"
+  },
+  {
+    "id": "1653252",
+    "title": "Havoc1986 / [C. T. D.] - Wind / Funeral Noise",
+    "genres": [
+      "noise"
+    ],
+    "year": 2009,
+    "country": "Япония",
+    "label": "Sabbathid Records (Япония)",
+    "price": 900,
+    "listen": null,
+    "image": "images/covers/1653252.jpg"
+  },
+  {
+    "id": "6980145",
+    "title": "Nodolby - organic/metallic dynamic",
+    "genres": [
+      "noise",
+      "experimental"
+    ],
+    "year": 2015,
+    "country": "Беллуно, Италия",
+    "label": "Babes In Arms (Великобритания)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://babesinarmsrecords.bandcamp.com/album/organic-metallic-dynamic"
+    },
+    "image": "images/covers/6980145.jpg"
+  },
+  {
+    "id": "11854124",
+    "title": "Various - Paysage(s) Sonore(s)",
+    "genres": [
+      "synth-pop",
+      "experimental",
+      "sound collage",
+      "sound art",
+      "electro"
+    ],
+    "year": 2018,
+    "country": "Франция",
+    "label": "Fougère (Франция)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://fougeremusique.bandcamp.com/album/paysage-s-sonore-s"
+    },
+    "image": "images/covers/11854124.jpg"
+  },
+  {
+    "id": "8244567",
+    "title": "Кобыла и Трупоглазые Жабы Искали Цезию, Нашли Поздно Утром Свистящего Хна - Киржач",
+    "genres": [
+      "post-punk",
+      "new wave"
+    ],
+    "year": 2015,
+    "country": "Москва, Россия",
+    "label": "Radio Waking (Россия)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://kobyla.bandcamp.com/album/--2"
+    },
+    "image": "images/covers/8244567.jpg"
+  },
+  {
+    "id": "7048102",
+    "title": "Почему коммутатор молчит - Это Нужно Видеть",
+    "genres": [
+      "experimental",
+      "lo-fi",
+      "shoegaze",
+      "industrial",
+      "noise rock"
+    ],
+    "year": 2015,
+    "country": "Москва, Россия",
+    "label": "Bookwar Records (Россия)",
+    "price": 900,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://kommutator.bandcamp.com/album/--8"
+    },
+    "image": "images/covers/7048102.jpg"
+  },
+  {
+    "id": "10500247",
+    "title": "Фонтан - Days Of Fear",
+    "genres": [
+      "punk",
+      "indie rock",
+      "shoegaze"
+    ],
+    "year": 2017,
+    "country": "Россия",
+    "label": "СИДИ ДОМА (Россия)",
+    "price": 900,
+    "listen": {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=wkBd2ZLGyfU"
+    },
+    "image": "images/covers/10500247.jpg"
+  },
+  {
+    "id": "11965203",
+    "title": "Somaticae - Le Premier Matin",
+    "genres": [
+      "dub",
+      "experimental",
+      "techno",
+      "new age"
+    ],
+    "year": 2018,
+    "country": "Сент-Этьен, Франция",
+    "label": "Fougère (Франция)",
+    "price": 1000,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://somaticae.bandcamp.com/album/le-premier-matin"
+    },
+    "image": "images/covers/11965203.jpg"
+  },
+  {
+    "id": "15854813",
+    "title": "Суперкозлы - Трахаются",
+    "genres": [
+      "punk",
+      "garage punk",
+      "hardcore"
+    ],
+    "year": 2019,
+    "country": "Киров, Россия",
+    "label": "Not On Label (Суперкозлы Self-released) (Россия)",
+    "price": 1000,
+    "listen": {
+      "label": "Bandcamp",
+      "url": "https://supergoats.bandcamp.com/album/2018"
+    },
+    "image": "images/covers/15854813.jpg"
+  }
+]
