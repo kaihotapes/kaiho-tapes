@@ -1,8 +1,8 @@
 [
   {
-    "id": "row-04",
-    "title": "[Читай Букварь \\ | Bookwar - Фронт Освобождения Насекомых](https://www.discogs.com/release/6473157-Читай-Букварь-Фронт-Освобождения-Насекомых)",
-    "discogs": null,
+    "id": "6473157",
+    "title": "Читай Букварь | Bookwar - Фронт Освобождения Насекомых",
+    "discogs": "https://www.discogs.com/release/6473157-Читай-Букварь-Фронт-Освобождения-Насекомых",
     "genres": [
       "experimental",
       "industrial",
@@ -18,11 +18,11 @@
       "label": "Bandcamp",
       "url": "https://bookwar.bandcamp.com/album/-"
     },
-    "image": ""
+    "image": "images/covers/6473157.jpg"
   },
   {
     "id": "2521659",
-    "title": "[Betty - Primeval](https://www.discogs.com/release/2521659-Betty-6-Primeval)",
+    "title": "Betty - Primeval",
     "discogs": "https://www.discogs.com/release/2521659-Betty-6-Primeval",
     "genres": [
       "noise"
@@ -36,7 +36,7 @@
   },
   {
     "id": "7883231",
-    "title": "[Castletroy - Castletroy](https://www.discogs.com/release/7883231-Castletroy-Castletroy)",
+    "title": "Castletroy - Castletroy",
     "discogs": "https://www.discogs.com/release/7883231-Castletroy-Castletroy",
     "genres": [
       "avantgarde",
@@ -54,7 +54,7 @@
   },
   {
     "id": "3947594",
-    "title": "[Charlatan / Clathrus - Charlatan / Clathrus](https://www.discogs.com/release/3947594-Charlatan-Clathrus-Charlatan-Clathrus)",
+    "title": "Charlatan / Clathrus - Charlatan / Clathrus",
     "discogs": "https://www.discogs.com/release/3947594-Charlatan-Clathrus-Charlatan-Clathrus",
     "genres": [
       "experimental",
@@ -69,7 +69,7 @@
   },
   {
     "id": "11519022",
-    "title": "[Isa - Небо в солёных колодцах](https://www.discogs.com/release/11519022-Isa-36-Небо-в-солёных-колодцах)",
+    "title": "Isa - Небо в солёных колодцах",
     "discogs": "https://www.discogs.com/release/11519022-Isa-36-Небо-в-солёных-колодцах",
     "genres": [
       "ambient",
@@ -88,7 +88,7 @@
   },
   {
     "id": "11874661",
-    "title": "[Japanese babY - 7](https://www.discogs.com/release/11874661-Japanese-babY-7)",
+    "title": "Japanese Baby - 7",
     "discogs": "https://www.discogs.com/release/11874661-Japanese-babY-7",
     "genres": [
       "shoegaze",
@@ -104,7 +104,7 @@
   },
   {
     "id": "7007879",
-    "title": "[Krobak - The Diary Of The Missed One](https://www.discogs.com/release/7007879-Krobak-The-Diary-Of-The-Missed-One)",
+    "title": "Krobak - The Diary Of The Missed One",
     "discogs": "https://www.discogs.com/release/7007879-Krobak-The-Diary-Of-The-Missed-One",
     "genres": [
       "post rock"
@@ -121,7 +121,7 @@
   },
   {
     "id": "11977852",
-    "title": "[Lemones - Parasites By The Trashboard Side](https://www.discogs.com/release/11977852-Lemones-Parasites-By-The-Trashboard-Side)",
+    "title": "Lemones - Parasites By The Trashboard Side",
     "discogs": "https://www.discogs.com/release/11977852-Lemones-Parasites-By-The-Trashboard-Side",
     "genres": [
       "lo-fi",
@@ -140,7 +140,7 @@
   },
   {
     "id": "6939477",
-    "title": "[Merry Bread / Планета им. Сахарова - Масло](https://www.discogs.com/release/6939477-Merry-Bread-Планета-им-Сахарова-Масло)",
+    "title": "Merry Bread / Планета им. Сахарова - Масло",
     "discogs": "https://www.discogs.com/release/6939477-Merry-Bread-Планета-им-Сахарова-Масло",
     "genres": [
       "noise"
@@ -157,7 +157,7 @@
   },
   {
     "id": "4076051",
-    "title": "[Mitchell Brennan - Eminent Domain / Mill No. 1](https://www.discogs.com/release/4076051-Mitchell-Brennan-Eminent-Domain-Mill-No-1)",
+    "title": "Mitchell Brennan - Eminent Domain / Mill No. 1",
     "discogs": "https://www.discogs.com/release/4076051-Mitchell-Brennan-Eminent-Domain-Mill-No-1",
     "genres": [
       "experimental",
@@ -172,7 +172,7 @@
   },
   {
     "id": "12714656",
-    "title": "[Murat Göğebakan - Sen Rahatına Bak](https://www.discogs.com/release/12714656-Murat-Göğebakan-Sen-Rahatına-Bak)",
+    "title": "Murat Göğebakan - Sen Rahatına Bak",
     "discogs": "https://www.discogs.com/release/12714656-Murat-Göğebakan-Sen-Rahatına-Bak",
     "genres": [
       "folk rock"
@@ -186,7 +186,7 @@
   },
   {
     "id": "16238280",
-    "title": "[Por Favor - I](https://www.discogs.com/release/16238280-Por-Favor-I)",
+    "title": "Por Favor - I",
     "discogs": "https://www.discogs.com/release/16238280-Por-Favor-I",
     "genres": [
       "punk",
@@ -204,7 +204,7 @@
   },
   {
     "id": "15956032",
-    "title": "[Sårskader - Dead Compilation](https://www.discogs.com/release/15956032-Sårskader-Dead-Compilation)",
+    "title": "Sårskader - Dead Compilation",
     "discogs": "https://www.discogs.com/release/15956032-Sårskader-Dead-Compilation",
     "genres": [
       "atmospheric black metal",
@@ -222,7 +222,7 @@
   },
   {
     "id": "26961548",
-    "title": "[Кобра - Rock'n'Roll Annihilation](https://www.discogs.com/release/26961548-Кобра-2-RocknRoll-Annihilation)",
+    "title": "Кобра - Rock'n'Roll Annihilation",
     "discogs": "https://www.discogs.com/release/26961548-Кобра-2-RocknRoll-Annihilation",
     "genres": [
       "punk"
@@ -239,7 +239,7 @@
   },
   {
     "id": "9628086",
-    "title": "[Матушка-Гусыня - Moves Like An Ugol](https://www.discogs.com/release/9628086-Matushka-Moves-Like-An-Ugol)",
+    "title": "Матушка-Гусыня - Moves Like An Ugol",
     "discogs": "https://www.discogs.com/release/9628086-Matushka-Moves-Like-An-Ugol",
     "genres": [
       "punk",
@@ -257,7 +257,7 @@
   },
   {
     "id": "5802373",
-    "title": "[Southern Radio - The Great Beauty](https://www.discogs.com/release/5802373-Southern-Radio-The-Great-Beauty)",
+    "title": "Southern Radio - The Great Beauty",
     "discogs": "https://www.discogs.com/release/5802373-Southern-Radio-The-Great-Beauty",
     "genres": [
       "punk",
@@ -275,7 +275,7 @@
   },
   {
     "id": "4500106",
-    "title": "[Various - Хулиганы](https://www.discogs.com/release/4500106-Various-Хулиганы)",
+    "title": "Various - Хулиганы",
     "discogs": "https://www.discogs.com/release/4500106-Various-Хулиганы",
     "genres": [
       "hip hop",
@@ -290,7 +290,7 @@
   },
   {
     "id": "5119677",
-    "title": "[Bomg - Polynseeds](https://www.discogs.com/release/5119677-Bomg-Polynseeds)",
+    "title": "Bomg - Polynseeds",
     "discogs": "https://www.discogs.com/release/5119677-Bomg-Polynseeds",
     "genres": [
       "doom metal",
@@ -309,7 +309,7 @@
   },
   {
     "id": "2358612",
-    "title": "[Content Nullity - Absolute Dread](https://www.discogs.com/release/2358612-Content-Nullity-Absolute-Dread)",
+    "title": "Content Nullity - Absolute Dread",
     "discogs": "https://www.discogs.com/release/2358612-Content-Nullity-Absolute-Dread",
     "genres": [
       "industrial",
@@ -328,7 +328,7 @@
   },
   {
     "id": "11642107",
-    "title": "[Fuc Lerrari / Nean Jégroni - Souvenirs Uchroniques](https://www.discogs.com/release/11642107-Fuc-Lerrari-Nean-Jégroni-Souvenirs-Uchroniques)",
+    "title": "Fuc Lerrari / Nean Jégroni - Souvenirs Uchroniques",
     "discogs": "https://www.discogs.com/release/11642107-Fuc-Lerrari-Nean-Jégroni-Souvenirs-Uchroniques",
     "genres": [
       "experimental",
@@ -348,7 +348,7 @@
   },
   {
     "id": "1653252",
-    "title": "[Havoc1986 / [C. T. D.] - Wind / Funeral Noise](https://www.discogs.com/release/1653252-Havoc1986-C-T-D-Wind-Funeral-Noise)",
+    "title": "Havoc1986 / [C. T. D.] - Wind / Funeral Noise",
     "discogs": "https://www.discogs.com/release/1653252-Havoc1986-C-T-D-Wind-Funeral-Noise",
     "genres": [
       "noise"
@@ -362,7 +362,7 @@
   },
   {
     "id": "6980145",
-    "title": "[Nodolby - organic/metallic dynamic](https://www.discogs.com/release/6980145-Nodolby-organicmetallic-dynamic)",
+    "title": "Nodolby - organic/metallic dynamic",
     "discogs": "https://www.discogs.com/release/6980145-Nodolby-organicmetallic-dynamic",
     "genres": [
       "noise",
@@ -380,7 +380,7 @@
   },
   {
     "id": "11965203",
-    "title": "[Somaticae - Le Premier Matin](https://www.discogs.com/release/11965203-Somaticae-Le-Premier-Matin)",
+    "title": "Somaticae - Le Premier Matin",
     "discogs": "https://www.discogs.com/release/11965203-Somaticae-Le-Premier-Matin",
     "genres": [
       "dub",
@@ -400,7 +400,7 @@
   },
   {
     "id": "11854124",
-    "title": "[Various - Paysage(s) Sonore(s)](https://www.discogs.com/release/11854124-Various-Paysages-Sonores)",
+    "title": "Various - Paysage(s) Sonore(s)",
     "discogs": "https://www.discogs.com/release/11854124-Various-Paysages-Sonores",
     "genres": [
       "synth-pop",
@@ -421,7 +421,7 @@
   },
   {
     "id": "8244567",
-    "title": "[Кобыла и Трупоглазые Жабы Искали Цезию, Нашли Поздно Утром Свистящего Хна - Киржач](https://www.discogs.com/release/8244567-Кобыла-и-Трупоглазые-Жабы-Искали-Цезию-Нашли-Поздно-Ут)",
+    "title": "Кобыла и Трупоглазые Жабы Искали Цезию, Нашли Поздно Утром Свистящего Хна - Киржач",
     "discogs": "https://www.discogs.com/release/8244567-Кобыла-и-Трупоглазые-Жабы-Искали-Цезию-Нашли-Поздно-Ут",
     "genres": [
       "post-punk",
@@ -439,7 +439,7 @@
   },
   {
     "id": "7048102",
-    "title": "[Почему коммутатор молчит - Это Нужно Видеть](https://www.discogs.com/release/7048102-Почему-коммутатор-молчит-Это-Нужно-Видеть)",
+    "title": "Почему коммутатор молчит - Это Нужно Видеть",
     "discogs": "https://www.discogs.com/release/7048102-Почему-коммутатор-молчит-Это-Нужно-Видеть",
     "genres": [
       "experimental",
@@ -460,7 +460,7 @@
   },
   {
     "id": "10500247",
-    "title": "[Фонтан - Days Of Fear](https://www.discogs.com/release/10500247-Фонтан-2-Days-Of-Fear)",
+    "title": "Фонтан - Days Of Fear",
     "discogs": "https://www.discogs.com/release/10500247-Фонтан-2-Days-Of-Fear",
     "genres": [
       "punk",
@@ -479,7 +479,7 @@
   },
   {
     "id": "15854813",
-    "title": "[Суперкозлы - Трахаются](https://www.discogs.com/release/15854813-Суперкозлы-Трахаются)",
+    "title": "Суперкозлы - Трахаются",
     "discogs": "https://www.discogs.com/release/15854813-Суперкозлы-Трахаются",
     "genres": [
       "punk",
