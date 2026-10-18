@@ -59,9 +59,31 @@
 
   function coverHtml(item, className = "cover") {
     if (item.image) {
-      return `<img class="${className}" src="${item.image}" alt="" loading="lazy" width="56" height="56" />`;
+      const src = escapeHtml(item.image);
+      const title = escapeHtml(item.title);
+      return `<button type="button" class="cover-btn" data-lightbox-src="${src}" data-lightbox-title="${title}" aria-label="Открыть обложку: ${title}">
+        <img class="${className}" src="${src}" alt="" loading="lazy" width="56" height="56" />
+      </button>`;
     }
     return `<div class="cover-fallback" aria-hidden="true"></div>`;
+  }
+
+  function openLightbox(src, title) {
+    const box = $("lightbox");
+    const img = $("lightboxImg");
+    img.src = src;
+    img.alt = title || "";
+    $("lightboxCaption").textContent = title || "";
+    box.hidden = false;
+    document.body.classList.add("lightbox-open");
+  }
+
+  function closeLightbox() {
+    const box = $("lightbox");
+    box.hidden = true;
+    $("lightboxImg").removeAttribute("src");
+    $("lightboxCaption").textContent = "";
+    document.body.classList.remove("lightbox-open");
   }
 
   function listenHtml(item) {
@@ -148,6 +170,24 @@
       $(id).addEventListener("change", apply);
     }
     $("reset").addEventListener("click", reset);
+
+    document.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-lightbox-src]");
+      if (btn) {
+        openLightbox(btn.getAttribute("data-lightbox-src"), btn.getAttribute("data-lightbox-title"));
+        return;
+      }
+      if (event.target.id === "lightbox" || event.target.id === "lightboxClose") {
+        closeLightbox();
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !$("lightbox").hidden) {
+        closeLightbox();
+      }
+    });
+
     apply();
   }
 
