@@ -179,6 +179,18 @@ button.cover-btn:focus-visible {
   max-width: 22rem;
 }
 
+.title-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgba(183, 199, 223, 0.35);
+  text-underline-offset: 0.15em;
+}
+
+.title-link:hover {
+  color: #e4ecf8;
+  text-decoration-color: #b7c7df;
+}
+
 .genres,
 .country,
 .label-cell {

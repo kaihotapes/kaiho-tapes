@@ -92,6 +92,12 @@
     return `<a href="${item.listen.url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
   }
 
+  function titleHtml(item) {
+    const text = escapeHtml(item.title);
+    if (!item.discogs) return text;
+    return `<a class="title-link" href="${escapeHtml(item.discogs)}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+  }
+
   function render(items) {
     $("count").textContent = `Показано ${items.length} из ${state.items.length}`;
 
@@ -101,7 +107,7 @@
         (item) => `
       <tr>
         <td>${coverHtml(item)}</td>
-        <td class="title">${escapeHtml(item.title)}</td>
+        <td class="title">${titleHtml(item)}</td>
         <td class="genres">${escapeHtml((item.genres || []).join(" / "))}</td>
         <td>${item.year ?? "—"}</td>
         <td class="country">${escapeHtml(item.country || "—")}</td>
@@ -120,7 +126,7 @@
       <article class="card">
         ${coverHtml(item)}
         <div>
-          <h2>${escapeHtml(item.title)}</h2>
+          <h2>${titleHtml(item)}</h2>
           <p class="meta">${escapeHtml((item.genres || []).join(" / ") || "—")}</p>
           <p class="meta">${item.year ?? "—"} · ${escapeHtml(item.country || "—")}</p>
           <p class="meta">${escapeHtml(item.label || "—")}</p>
