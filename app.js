@@ -88,6 +88,11 @@
     return `<a href="${item.listen.url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
   }
 
+  function reviewHtml(item) {
+    if (!item.review) return "—";
+    return `<a href="${escapeHtml(item.review)}" target="_blank" rel="noopener noreferrer">обзор</a>`;
+  }
+
   function titleHtml(item) {
     const text = escapeHtml(item.title);
     if (!item.discogs) return text;
@@ -110,6 +115,7 @@
         <td class="label-cell">${escapeHtml(item.label || "—")}</td>
         <td class="price">${item.price != null ? `${item.price} ₽` : "—"}</td>
         <td>${listenHtml(item)}</td>
+        <td>${reviewHtml(item)}</td>
       </tr>`
       )
       .join("");
@@ -127,7 +133,7 @@
           <p class="meta">${item.year ?? "—"} · ${escapeHtml(item.country || "—")}</p>
           <p class="meta">${escapeHtml(item.label || "—")}</p>
           <span class="price">${item.price != null ? `${item.price} ₽` : "—"}</span>
-          <div class="meta">${listenHtml(item)}</div>
+          <div class="meta">${listenHtml(item)}${item.review ? ` · ${reviewHtml(item)}` : ""}</div>
         </div>
       </article>`
       )

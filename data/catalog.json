@@ -18,7 +18,8 @@
       "label": "Bandcamp",
       "url": "https://bookwar.bandcamp.com/album/-"
     },
-    "image": "images/covers/6473157.jpg"
+    "image": "images/covers/6473157.jpg",
+    "review": null
   },
   {
     "id": "2521659",
@@ -32,7 +33,8 @@
     "label": "BTR (Великобритания)",
     "price": 600,
     "listen": null,
-    "image": "images/covers/2521659.jpg"
+    "image": "images/covers/2521659.jpg",
+    "review": null
   },
   {
     "id": "7883231",
@@ -50,7 +52,8 @@
       "label": "Bandcamp",
       "url": "https://castletroy.bandcamp.com/album/castletroy"
     },
-    "image": "images/covers/7883231.jpg"
+    "image": "images/covers/7883231.jpg",
+    "review": null
   },
   {
     "id": "3947594",
@@ -65,7 +68,8 @@
     "label": "Full Of Nothing (Россия)",
     "price": 600,
     "listen": null,
-    "image": "images/covers/3947594.jpg"
+    "image": "images/covers/3947594.jpg",
+    "review": null
   },
   {
     "id": "11519022",
@@ -84,7 +88,8 @@
       "label": "Bandcamp",
       "url": "https://isaz.bandcamp.com/album/the-sky-in-the-salty-wells"
     },
-    "image": "images/covers/11519022.jpg"
+    "image": "images/covers/11519022.jpg",
+    "review": "https://t.me/kaihotapes/18"
   },
   {
     "id": "11874661",
@@ -100,7 +105,8 @@
     "label": "Гусь Рекордс (Россия)",
     "price": 600,
     "listen": null,
-    "image": "images/covers/11874661.jpg"
+    "image": "images/covers/11874661.jpg",
+    "review": null
   },
   {
     "id": "7007879",
@@ -117,7 +123,8 @@
       "label": "Bandcamp",
       "url": "https://krobak.bandcamp.com/album/the-diary-of-the-missed-one"
     },
-    "image": "images/covers/7007879.jpg"
+    "image": "images/covers/7007879.jpg",
+    "review": null
   },
   {
     "id": "11977852",
@@ -136,7 +143,8 @@
       "label": "Bandcamp",
       "url": "https://thelemones.bandcamp.com/album/parasites-by-the-trashboard-side"
     },
-    "image": "images/covers/11977852.jpg"
+    "image": "images/covers/11977852.jpg",
+    "review": null
   },
   {
     "id": "6939477",
@@ -153,7 +161,8 @@
       "label": "Bandcamp",
       "url": "https://merrybread.bandcamp.com/album/oil"
     },
-    "image": "images/covers/6939477.jpg"
+    "image": "images/covers/6939477.jpg",
+    "review": null
   },
   {
     "id": "4076051",
@@ -168,7 +177,8 @@
     "label": "Mazurka Editions (Австралия)",
     "price": 600,
     "listen": null,
-    "image": "images/covers/4076051.jpg"
+    "image": "images/covers/4076051.jpg",
+    "review": null
   },
   {
     "id": "12714656",
@@ -182,7 +192,8 @@
     "label": "Sindoma Müzik, Orjin Müzik (Турция)",
     "price": 600,
     "listen": null,
-    "image": "images/covers/12714656.jpg"
+    "image": "images/covers/12714656.jpg",
+    "review": null
   },
   {
     "id": "16238280",
@@ -200,7 +211,8 @@
       "label": "Bandcamp",
       "url": "https://porfavor.bandcamp.com/album/i"
     },
-    "image": "images/covers/16238280.jpg"
+    "image": "images/covers/16238280.jpg",
+    "review": null
   },
   {
     "id": "15956032",
@@ -218,7 +230,8 @@
       "label": "Bandcamp",
       "url": "https://srskdr.bandcamp.com/album/s-rskader-dead-compilation-2017"
     },
-    "image": "images/covers/15956032.jpg"
+    "image": "images/covers/15956032.jpg",
+    "review": null
   },
   {
     "id": "26961548",
@@ -235,7 +248,8 @@
       "label": "Bandcamp",
       "url": "https://kobra1312.bandcamp.com/album/rocknroll-annihilation"
     },
-    "image": "images/covers/26961548.jpg"
+    "image": "images/covers/26961548.jpg",
+    "review": null
   },
   {
     "id": "9628086",
@@ -253,7 +267,8 @@
       "label": "Bandcamp",
       "url": "https://matushka.bandcamp.com/album/moves-like-an-ugol"
     },
-    "image": "images/covers/9628086.jpg"
+    "image": "images/covers/9628086.jpg",
+    "review": null
   },
   {
     "id": "5802373",
@@ -271,7 +286,8 @@
       "label": "Bandcamp",
       "url": "https://southernradio.bandcamp.com/album/the-great-beauty"
     },
-    "image": "images/covers/5802373.jpg"
+    "image": "images/covers/5802373.jpg",
+    "review": null
   },
   {
     "id": "4500106",
@@ -286,7 +302,8 @@
     "label": "Neotstoy Production (Россия)",
     "price": 700,
     "listen": null,
-    "image": "images/covers/4500106.jpg"
+    "image": "images/covers/4500106.jpg",
+    "review": null
   },
   {
     "id": "5119677",
@@ -305,7 +322,8 @@
       "label": "Bandcamp",
       "url": "https://bomg.bandcamp.com/album/polynseeds"
     },
-    "image": "images/covers/5119677.jpg"
+    "image": "images/covers/5119677.jpg",
+    "review": "https://t.me/kaihotapes/13"
   },
   {
     "id": "2358612",
@@ -324,7 +342,8 @@
       "label": "Bandcamp",
       "url": "https://phagetapes.bandcamp.com/album/absolute-dread"
     },
-    "image": "images/covers/2358612.jpg"
+    "image": "images/covers/2358612.jpg",
+    "review": null
   },
   {
     "id": "11642107",
@@ -344,7 +363,8 @@
       "label": "Bandcamp",
       "url": "https://fougeremusique.bandcamp.com/album/souvenirs-uchroniques"
     },
-    "image": "images/covers/11642107.jpg"
+    "image": "images/covers/11642107.jpg",
+    "review": null
   },
   {
     "id": "1653252",
@@ -358,7 +378,8 @@
     "label": "Sabbathid Records (Япония)",
     "price": 900,
     "listen": null,
-    "image": "images/covers/1653252.jpg"
+    "image": "images/covers/1653252.jpg",
+    "review": null
   },
   {
     "id": "6980145",
@@ -376,7 +397,8 @@
       "label": "Bandcamp",
       "url": "https://babesinarmsrecords.bandcamp.com/album/organic-metallic-dynamic"
     },
-    "image": "images/covers/6980145.jpg"
+    "image": "images/covers/6980145.jpg",
+    "review": null
   },
   {
     "id": "11965203",
@@ -396,7 +418,8 @@
       "label": "Bandcamp",
       "url": "https://somaticae.bandcamp.com/album/le-premier-matin"
     },
-    "image": "images/covers/11965203.jpg"
+    "image": "images/covers/11965203.jpg",
+    "review": null
   },
   {
     "id": "11854124",
@@ -417,7 +440,8 @@
       "label": "Bandcamp",
       "url": "https://fougeremusique.bandcamp.com/album/paysage-s-sonore-s"
     },
-    "image": "images/covers/11854124.jpg"
+    "image": "images/covers/11854124.jpg",
+    "review": null
   },
   {
     "id": "8244567",
@@ -435,7 +459,8 @@
       "label": "Bandcamp",
       "url": "https://kobyla.bandcamp.com/album/--2"
     },
-    "image": "images/covers/8244567.jpg"
+    "image": "images/covers/8244567.jpg",
+    "review": null
   },
   {
     "id": "7048102",
@@ -456,7 +481,8 @@
       "label": "Bandcamp",
       "url": "https://kommutator.bandcamp.com/album/--8"
     },
-    "image": "images/covers/7048102.jpg"
+    "image": "images/covers/7048102.jpg",
+    "review": null
   },
   {
     "id": "10500247",
@@ -475,7 +501,8 @@
       "label": "YouTube",
       "url": "https://www.youtube.com/watch?v=wkBd2ZLGyfU"
     },
-    "image": "images/covers/10500247.jpg"
+    "image": "images/covers/10500247.jpg",
+    "review": null
   },
   {
     "id": "15854813",
@@ -494,6 +521,7 @@
       "label": "Bandcamp",
       "url": "https://supergoats.bandcamp.com/album/2018"
     },
-    "image": "images/covers/15854813.jpg"
+    "image": "images/covers/15854813.jpg",
+    "review": null
   }
 ]
