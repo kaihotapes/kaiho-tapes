@@ -162,7 +162,7 @@ body {
   overflow-x: auto;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  background: var(--surface);
+  background: rgba(26, 30, 39, 0.8);
 }
 
 table {
@@ -186,13 +186,13 @@ th {
   letter-spacing: 0.05em;
   color: var(--muted);
   font-weight: 600;
-  background: #161a22;
+  background: rgba(22, 26, 34, 0.8);
   position: sticky;
   top: 0;
 }
 
 tbody tr:hover {
-  background: var(--row-hover);
+  background: rgba(34, 40, 51, 0.8);
 }
 
 .cover {
@@ -289,7 +289,7 @@ a:hover {
     grid-template-columns: 72px 1fr;
     gap: 0.75rem;
     padding: 0.8rem;
-    background: var(--surface);
+    background: rgba(26, 30, 39, 0.8);
     border: 1px solid var(--border);
     border-radius: var(--radius);
   }
