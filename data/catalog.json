@@ -158,7 +158,10 @@
     "country": "Краснодар, Россия",
     "label": "Гусь Рекордс (Россия)",
     "price": 600,
-    "listen": null,
+    "listen": {
+      "label": "вк",
+      "url": "https://vk.ru/music/playlist/-6686742_84159229_206d3b6be661f0bf4c"
+    },
     "image": "images/covers/11874661.jpg",
     "review": null
   },
@@ -380,7 +383,10 @@
     "country": "Россия",
     "label": "Neotstoy Production (Россия)",
     "price": 700,
-    "listen": null,
+    "listen": {
+      "label": "вк",
+      "url": "https://vk.ru/music/playlist/-159824246_23_dfc206cd5df8e33944"
+    },
     "image": "images/covers/4500106.jpg",
     "review": null
   },
