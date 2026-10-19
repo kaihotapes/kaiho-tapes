@@ -42,27 +42,24 @@ body {
   z-index: 0;
   pointer-events: none;
   overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  padding-right: 4vw;
 }
 
 .bg-art::after {
   content: "";
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(ellipse at 70% 45%, transparent 0%, rgba(18, 20, 26, 0.35) 42%, var(--bg) 78%),
-    linear-gradient(180deg, rgba(18, 20, 26, 0.55), rgba(18, 20, 26, 0.72));
+  background: rgba(18, 20, 26, 0.28);
 }
 
 .bg-art img {
-  width: min(62vw, 640px);
-  height: auto;
-  opacity: 0.42;
-  mix-blend-mode: lighten;
-  filter: saturate(0.85) brightness(0.72);
+  position: absolute;
+  left: -8%;
+  top: -8%;
+  width: 116%;
+  height: 116%;
+  object-fit: cover;
+  opacity: 0.92;
+  filter: saturate(0.95) brightness(0.92);
   transform: translate3d(0, 0, 0);
   will-change: transform;
 }
@@ -84,18 +81,6 @@ body {
   }
 }
 
-@media (max-width: 720px) {
-  .bg-art {
-    justify-content: center;
-    align-items: flex-start;
-    padding: 5.5rem 0 0;
-  }
-
-  .bg-art img {
-    width: min(92vw, 420px);
-    opacity: 0.3;
-  }
-}
 
 .header h1 {
   margin: 0 0 0.35rem;

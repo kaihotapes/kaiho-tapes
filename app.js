@@ -200,22 +200,36 @@
   function bindLogoParallax() {
     const logo = $("bgLogo");
     if (!logo || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    if (!window.matchMedia("(pointer: fine)").matches) return;
 
+    const pointer = { x: 0, y: 0 };
     let frame = 0;
-    window.addEventListener(
-      "pointermove",
-      (event) => {
-        if (frame) return;
-        frame = requestAnimationFrame(() => {
-          frame = 0;
-          const x = (event.clientX / window.innerWidth - 0.5) * 22;
-          const y = (event.clientY / window.innerHeight - 0.5) * 14;
-          logo.style.transform = `translate3d(${x.toFixed(1)}px, ${y.toFixed(1)}px, 0)`;
-        });
-      },
-      { passive: true }
-    );
+
+    function paint() {
+      frame = 0;
+      const maxScroll = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+      const scrollY = (window.scrollY / maxScroll - 0.5) * 36;
+      logo.style.transform = `translate3d(${pointer.x.toFixed(1)}px, ${(pointer.y + scrollY).toFixed(1)}px, 0)`;
+    }
+
+    function schedule() {
+      if (frame) return;
+      frame = requestAnimationFrame(paint);
+    }
+
+    if (window.matchMedia("(pointer: fine)").matches) {
+      window.addEventListener(
+        "pointermove",
+        (event) => {
+          pointer.x = (event.clientX / window.innerWidth - 0.5) * 28;
+          pointer.y = (event.clientY / window.innerHeight - 0.5) * 18;
+          schedule();
+        },
+        { passive: true }
+      );
+    }
+
+    window.addEventListener("scroll", schedule, { passive: true });
+    schedule();
   }
 
   bindLogoParallax();
