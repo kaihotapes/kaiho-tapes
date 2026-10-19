@@ -84,8 +84,8 @@
 
   function listenHtml(item) {
     if (!item.listen || !item.listen.url) return "—";
-    const label = item.listen.label || "Listen";
-    return `<a href="${item.listen.url}" target="_blank" rel="noopener noreferrer">${label}</a>`;
+    const label = (item.listen.label || "listen").toLowerCase();
+    return `<a href="${escapeHtml(item.listen.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
   }
 
   function reviewHtml(item) {
