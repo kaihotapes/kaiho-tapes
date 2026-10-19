@@ -3,14 +3,25 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Cassette for sale</title>
-    <meta name="description" content="Small cassette catalog for sale" />
+    <title>kaihō tapes</title>
+    <meta name="description" content="Кассеты на продажу. Каталог регулярно пополняется." />
+    <link rel="icon" href="images/logo.png" type="image/png" />
+    <link rel="apple-touch-icon" href="images/logo.png" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <div class="bg-art" aria-hidden="true">
+      <img id="bgLogo" src="images/logo.png" alt="" />
+    </div>
+
+    <div class="page">
     <header class="header">
-      <h1>Cassette for sale</h1>
-      <p class="subtitle">Кассеты · цены в ₽ · пишите, если что-то заинтересовало</p>
+      <h1>kaihō tapes</h1>
+      <p class="subtitle">Кассеты · цены в ₽ · каталог регулярно пополняется</p>
+      <p class="note">
+        Новые позиции — в канале
+        <a href="https://t.me/kaihotapes" target="_blank" rel="noopener noreferrer">t.me/kaihotapes</a>
+      </p>
     </header>
 
     <section class="filters" aria-label="Фильтры">
@@ -72,8 +83,12 @@
     <div class="cards" id="cards" hidden></div>
 
     <footer class="footer">
-      <p>Обложки сохранены локально. Данные из каталога for sale.</p>
+      <p>
+        Каталог регулярно пополняется ·
+        <a href="https://t.me/kaihotapes" target="_blank" rel="noopener noreferrer">Telegram</a>
+      </p>
     </footer>
+    </div>
 
     <div id="lightbox" class="lightbox" hidden>
       <button type="button" class="lightbox-close" id="lightboxClose" aria-label="Закрыть">×</button>

@@ -197,6 +197,29 @@
     apply();
   }
 
+  function bindLogoParallax() {
+    const logo = $("bgLogo");
+    if (!logo || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    if (!window.matchMedia("(pointer: fine)").matches) return;
+
+    let frame = 0;
+    window.addEventListener(
+      "pointermove",
+      (event) => {
+        if (frame) return;
+        frame = requestAnimationFrame(() => {
+          frame = 0;
+          const x = (event.clientX / window.innerWidth - 0.5) * 22;
+          const y = (event.clientY / window.innerHeight - 0.5) * 14;
+          logo.style.transform = `translate3d(${x.toFixed(1)}px, ${y.toFixed(1)}px, 0)`;
+        });
+      },
+      { passive: true }
+    );
+  }
+
+  bindLogoParallax();
+
   init().catch((err) => {
     $("count").textContent = `Не удалось загрузить каталог: ${err.message}`;
   });
