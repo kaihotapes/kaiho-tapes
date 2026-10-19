@@ -199,7 +199,7 @@ th {
   letter-spacing: 0.05em;
   color: var(--muted);
   font-weight: 600;
-  background: transparent;
+  background: rgba(26, 30, 39, 0.8);
   position: sticky;
   top: 0;
 }
