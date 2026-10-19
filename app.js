@@ -36,8 +36,6 @@
       q: $("q").value.trim().toLowerCase(),
       genre: $("genre").value,
       country: $("country").value,
-      yearFrom: Number($("yearFrom").value) || null,
-      yearTo: Number($("yearTo").value) || null,
       priceFrom: Number($("priceFrom").value) || null,
       priceTo: Number($("priceTo").value) || null,
     };
@@ -50,8 +48,6 @@
     }
     if (f.genre && !(item.genres || []).includes(f.genre)) return false;
     if (f.country && countryKey(item.country) !== f.country) return false;
-    if (f.yearFrom != null && (item.year == null || item.year < f.yearFrom)) return false;
-    if (f.yearTo != null && (item.year == null || item.year > f.yearTo)) return false;
     if (f.priceFrom != null && (item.price == null || item.price < f.priceFrom)) return false;
     if (f.priceTo != null && (item.price == null || item.price > f.priceTo)) return false;
     return true;
@@ -155,8 +151,6 @@
     $("q").value = "";
     $("genre").value = "";
     $("country").value = "";
-    $("yearFrom").value = "";
-    $("yearTo").value = "";
     $("priceFrom").value = "";
     $("priceTo").value = "";
     apply();
@@ -171,7 +165,7 @@
     fillSelect($("genre"), genres);
     fillSelect($("country"), countries);
 
-    for (const id of ["q", "genre", "country", "yearFrom", "yearTo", "priceFrom", "priceTo"]) {
+    for (const id of ["q", "genre", "country", "priceFrom", "priceTo"]) {
       $(id).addEventListener("input", apply);
       $(id).addEventListener("change", apply);
     }

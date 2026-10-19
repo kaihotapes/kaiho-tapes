@@ -82,6 +82,14 @@ body {
 }
 
 
+.header {
+  margin-bottom: 0.2rem;
+  padding: 0.85rem 1rem;
+  background: rgba(26, 30, 39, 0.8);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
 .header h1 {
   margin: 0 0 0.35rem;
   font-size: clamp(1.6rem, 3vw, 2.1rem);
@@ -95,13 +103,18 @@ body {
   font-size: 0.95rem;
 }
 
+.subtitle a,
+.footer a {
+  color: #b7c7df;
+}
+
 .filters {
   display: flex;
   flex-wrap: wrap;
   gap: 0.65rem;
   margin: 1.4rem 0 0.75rem;
   padding: 0.9rem;
-  background: var(--surface);
+  background: rgba(26, 30, 39, 0.8);
   border: 1px solid var(--border);
   border-radius: var(--radius);
 }
@@ -186,7 +199,7 @@ th {
   letter-spacing: 0.05em;
   color: var(--muted);
   font-weight: 600;
-  background: rgba(22, 26, 34, 0.8);
+  background: transparent;
   position: sticky;
   top: 0;
 }
