@@ -165,6 +165,7 @@
   async function init() {
     const res = await fetch("data/catalog.json");
     state.items = await res.json();
+    state.items.sort((a, b) => (a.title || "").localeCompare(b.title || "", "ru", { sensitivity: "base" }));
 
     const genres = uniqueSorted(state.items.flatMap((i) => i.genres || []));
     const countries = uniqueSorted(state.items.map((i) => countryKey(i.country)));

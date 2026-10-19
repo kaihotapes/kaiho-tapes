@@ -1,27 +1,5 @@
 [
   {
-    "id": "6473157",
-    "title": "Читай Букварь | Bookwar - Фронт Освобождения Насекомых",
-    "discogs": "https://www.discogs.com/release/6473157-Читай-Букварь-Фронт-Освобождения-Насекомых",
-    "genres": [
-      "experimental",
-      "industrial",
-      "noise",
-      "ambient",
-      "lo-fi"
-    ],
-    "year": 2015,
-    "country": "Московская область, Россия",
-    "label": "Bookwar Records (Россия)",
-    "price": 400,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://bookwar.bandcamp.com/album/-"
-    },
-    "image": "images/covers/6473157.jpg",
-    "review": null
-  },
-  {
     "id": "2521659",
     "title": "Betty - Primeval",
     "discogs": "https://www.discogs.com/release/2521659-Betty-6-Primeval",
@@ -35,6 +13,26 @@
     "listen": null,
     "image": "images/covers/2521659.jpg",
     "review": null
+  },
+  {
+    "id": "5119677",
+    "title": "Bomg - Polynseeds",
+    "discogs": "https://www.discogs.com/release/5119677-Bomg-Polynseeds",
+    "genres": [
+      "doom metal",
+      "psychedelic rock",
+      "stoner rock"
+    ],
+    "year": 2013,
+    "country": "Киев, Украина",
+    "label": "Freak Friendly D.I.Y. (Украина)",
+    "price": 800,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://bomg.bandcamp.com/album/polynseeds"
+    },
+    "image": "images/covers/5119677.jpg",
+    "review": "https://t.me/kaihotapes/13"
   },
   {
     "id": "7883231",
@@ -69,6 +67,62 @@
     "price": 600,
     "listen": null,
     "image": "images/covers/3947594.jpg",
+    "review": null
+  },
+  {
+    "id": "2358612",
+    "title": "Content Nullity - Absolute Dread",
+    "discogs": "https://www.discogs.com/release/2358612-Content-Nullity-Absolute-Dread",
+    "genres": [
+      "industrial",
+      "dark ambient",
+      "noise"
+    ],
+    "year": 2010,
+    "country": "Великобритания",
+    "label": "Phage Tapes (США)",
+    "price": 900,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://phagetapes.bandcamp.com/album/absolute-dread"
+    },
+    "image": "images/covers/2358612.jpg",
+    "review": null
+  },
+  {
+    "id": "11642107",
+    "title": "Fuc Lerrari / Nean Jégroni - Souvenirs Uchroniques",
+    "discogs": "https://www.discogs.com/release/11642107-Fuc-Lerrari-Nean-Jégroni-Souvenirs-Uchroniques",
+    "genres": [
+      "experimental",
+      "ambient",
+      "musique concrète",
+      "rhythmic noise"
+    ],
+    "year": 2018,
+    "country": "Франция",
+    "label": "Fougère (Франция)",
+    "price": 900,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://fougeremusique.bandcamp.com/album/souvenirs-uchroniques"
+    },
+    "image": "images/covers/11642107.jpg",
+    "review": null
+  },
+  {
+    "id": "1653252",
+    "title": "Havoc1986 / [C. T. D.] - Wind / Funeral Noise",
+    "discogs": "https://www.discogs.com/release/1653252-Havoc1986-C-T-D-Wind-Funeral-Noise",
+    "genres": [
+      "noise"
+    ],
+    "year": 2009,
+    "country": "Япония",
+    "label": "Sabbathid Records (Япония)",
+    "price": 900,
+    "listen": null,
+    "image": "images/covers/1653252.jpg",
     "review": null
   },
   {
@@ -196,6 +250,25 @@
     "review": null
   },
   {
+    "id": "6980145",
+    "title": "Nodolby - organic/metallic dynamic",
+    "discogs": "https://www.discogs.com/release/6980145-Nodolby-organicmetallic-dynamic",
+    "genres": [
+      "noise",
+      "experimental"
+    ],
+    "year": 2015,
+    "country": "Беллуно, Италия",
+    "label": "Babes In Arms (Великобритания)",
+    "price": 900,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://babesinarmsrecords.bandcamp.com/album/organic-metallic-dynamic"
+    },
+    "image": "images/covers/6980145.jpg",
+    "review": null
+  },
+  {
     "id": "16238280",
     "title": "Por Favor - I",
     "discogs": "https://www.discogs.com/release/16238280-Por-Favor-I",
@@ -215,59 +288,24 @@
     "review": null
   },
   {
-    "id": "15956032",
-    "title": "Sårskader - Dead Compilation",
-    "discogs": "https://www.discogs.com/release/15956032-Sårskader-Dead-Compilation",
+    "id": "11965203",
+    "title": "Somaticae - Le Premier Matin",
+    "discogs": "https://www.discogs.com/release/11965203-Somaticae-Le-Premier-Matin",
     "genres": [
-      "atmospheric black metal",
-      "depressive black metal"
+      "dub",
+      "experimental",
+      "techno",
+      "new age"
     ],
-    "year": 2017,
-    "country": "Тольятти, Россия",
-    "label": "Танцы До Неба Records (Россия)",
-    "price": 600,
+    "year": 2018,
+    "country": "Сент-Этьен, Франция",
+    "label": "Fougère (Франция)",
+    "price": 900,
     "listen": {
       "label": "bandcamp",
-      "url": "https://srskdr.bandcamp.com/album/s-rskader-dead-compilation-2017"
+      "url": "https://somaticae.bandcamp.com/album/le-premier-matin"
     },
-    "image": "images/covers/15956032.jpg",
-    "review": null
-  },
-  {
-    "id": "26961548",
-    "title": "Кобра - Rock'n'Roll Annihilation",
-    "discogs": "https://www.discogs.com/release/26961548-Кобра-2-RocknRoll-Annihilation",
-    "genres": [
-      "punk"
-    ],
-    "year": 2022,
-    "country": "Россия",
-    "label": "City To City Records (Россия)",
-    "price": 600,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://kobra1312.bandcamp.com/album/rocknroll-annihilation"
-    },
-    "image": "images/covers/26961548.jpg",
-    "review": null
-  },
-  {
-    "id": "9628086",
-    "title": "Матушка-Гусыня - Moves Like An Ugol",
-    "discogs": "https://www.discogs.com/release/9628086-Matushka-Moves-Like-An-Ugol",
-    "genres": [
-      "punk",
-      "prog rock"
-    ],
-    "year": 2016,
-    "country": "Санкт-Петербург, Россия",
-    "label": "Broken Face Airways (Россия)",
-    "price": 600,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://matushka.bandcamp.com/album/moves-like-an-ugol"
-    },
-    "image": "images/covers/9628086.jpg",
+    "image": "images/covers/11965203.jpg",
     "review": null
   },
   {
@@ -290,135 +328,22 @@
     "review": null
   },
   {
-    "id": "4500106",
-    "title": "Various - Хулиганы",
-    "discogs": "https://www.discogs.com/release/4500106-Various-Хулиганы",
+    "id": "15956032",
+    "title": "Sårskader - Dead Compilation",
+    "discogs": "https://www.discogs.com/release/15956032-Sårskader-Dead-Compilation",
     "genres": [
-      "hip hop",
-      "rock"
+      "atmospheric black metal",
+      "depressive black metal"
     ],
-    "year": 2002,
-    "country": "Россия",
-    "label": "Neotstoy Production (Россия)",
-    "price": 700,
-    "listen": null,
-    "image": "images/covers/4500106.jpg",
-    "review": null
-  },
-  {
-    "id": "5119677",
-    "title": "Bomg - Polynseeds",
-    "discogs": "https://www.discogs.com/release/5119677-Bomg-Polynseeds",
-    "genres": [
-      "doom metal",
-      "psychedelic rock",
-      "stoner rock"
-    ],
-    "year": 2013,
-    "country": "Киев, Украина",
-    "label": "Freak Friendly D.I.Y. (Украина)",
-    "price": 800,
+    "year": 2017,
+    "country": "Тольятти, Россия",
+    "label": "Танцы До Неба Records (Россия)",
+    "price": 600,
     "listen": {
       "label": "bandcamp",
-      "url": "https://bomg.bandcamp.com/album/polynseeds"
+      "url": "https://srskdr.bandcamp.com/album/s-rskader-dead-compilation-2017"
     },
-    "image": "images/covers/5119677.jpg",
-    "review": "https://t.me/kaihotapes/13"
-  },
-  {
-    "id": "2358612",
-    "title": "Content Nullity - Absolute Dread",
-    "discogs": "https://www.discogs.com/release/2358612-Content-Nullity-Absolute-Dread",
-    "genres": [
-      "industrial",
-      "dark ambient",
-      "noise"
-    ],
-    "year": 2010,
-    "country": "Великобритания",
-    "label": "Phage Tapes (США)",
-    "price": 900,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://phagetapes.bandcamp.com/album/absolute-dread"
-    },
-    "image": "images/covers/2358612.jpg",
-    "review": null
-  },
-  {
-    "id": "11642107",
-    "title": "Fuc Lerrari / Nean Jégroni - Souvenirs Uchroniques",
-    "discogs": "https://www.discogs.com/release/11642107-Fuc-Lerrari-Nean-Jégroni-Souvenirs-Uchroniques",
-    "genres": [
-      "experimental",
-      "ambient",
-      "musique concrète",
-      "rhythmic noise"
-    ],
-    "year": 2018,
-    "country": "Франция",
-    "label": "Fougère (Франция)",
-    "price": 900,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://fougeremusique.bandcamp.com/album/souvenirs-uchroniques"
-    },
-    "image": "images/covers/11642107.jpg",
-    "review": null
-  },
-  {
-    "id": "1653252",
-    "title": "Havoc1986 / [C. T. D.] - Wind / Funeral Noise",
-    "discogs": "https://www.discogs.com/release/1653252-Havoc1986-C-T-D-Wind-Funeral-Noise",
-    "genres": [
-      "noise"
-    ],
-    "year": 2009,
-    "country": "Япония",
-    "label": "Sabbathid Records (Япония)",
-    "price": 900,
-    "listen": null,
-    "image": "images/covers/1653252.jpg",
-    "review": null
-  },
-  {
-    "id": "6980145",
-    "title": "Nodolby - organic/metallic dynamic",
-    "discogs": "https://www.discogs.com/release/6980145-Nodolby-organicmetallic-dynamic",
-    "genres": [
-      "noise",
-      "experimental"
-    ],
-    "year": 2015,
-    "country": "Беллуно, Италия",
-    "label": "Babes In Arms (Великобритания)",
-    "price": 900,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://babesinarmsrecords.bandcamp.com/album/organic-metallic-dynamic"
-    },
-    "image": "images/covers/6980145.jpg",
-    "review": null
-  },
-  {
-    "id": "11965203",
-    "title": "Somaticae - Le Premier Matin",
-    "discogs": "https://www.discogs.com/release/11965203-Somaticae-Le-Premier-Matin",
-    "genres": [
-      "dub",
-      "experimental",
-      "techno",
-      "new age"
-    ],
-    "year": 2018,
-    "country": "Сент-Этьен, Франция",
-    "label": "Fougère (Франция)",
-    "price": 900,
-    "listen": {
-      "label": "bandcamp",
-      "url": "https://somaticae.bandcamp.com/album/le-premier-matin"
-    },
-    "image": "images/covers/11965203.jpg",
+    "image": "images/covers/15956032.jpg",
     "review": null
   },
   {
@@ -444,6 +369,40 @@
     "review": null
   },
   {
+    "id": "4500106",
+    "title": "Various - Хулиганы",
+    "discogs": "https://www.discogs.com/release/4500106-Various-Хулиганы",
+    "genres": [
+      "hip hop",
+      "rock"
+    ],
+    "year": 2002,
+    "country": "Россия",
+    "label": "Neotstoy Production (Россия)",
+    "price": 700,
+    "listen": null,
+    "image": "images/covers/4500106.jpg",
+    "review": null
+  },
+  {
+    "id": "26961548",
+    "title": "Кобра - Rock'n'Roll Annihilation",
+    "discogs": "https://www.discogs.com/release/26961548-Кобра-2-RocknRoll-Annihilation",
+    "genres": [
+      "punk"
+    ],
+    "year": 2022,
+    "country": "Россия",
+    "label": "City To City Records (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://kobra1312.bandcamp.com/album/rocknroll-annihilation"
+    },
+    "image": "images/covers/26961548.jpg",
+    "review": null
+  },
+  {
     "id": "8244567",
     "title": "Кобыла и Трупоглазые Жабы Искали Цезию, Нашли Поздно Утром Свистящего Хна - Киржач",
     "discogs": "https://www.discogs.com/release/8244567-Кобыла-и-Трупоглазые-Жабы-Искали-Цезию-Нашли-Поздно-Ут",
@@ -460,6 +419,25 @@
       "url": "https://kobyla.bandcamp.com/album/--2"
     },
     "image": "images/covers/8244567.jpg",
+    "review": null
+  },
+  {
+    "id": "9628086",
+    "title": "Матушка-Гусыня - Moves Like An Ugol",
+    "discogs": "https://www.discogs.com/release/9628086-Matushka-Moves-Like-An-Ugol",
+    "genres": [
+      "punk",
+      "prog rock"
+    ],
+    "year": 2016,
+    "country": "Санкт-Петербург, Россия",
+    "label": "Broken Face Airways (Россия)",
+    "price": 600,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://matushka.bandcamp.com/album/moves-like-an-ugol"
+    },
+    "image": "images/covers/9628086.jpg",
     "review": null
   },
   {
@@ -485,6 +463,26 @@
     "review": null
   },
   {
+    "id": "15854813",
+    "title": "Суперкозлы - Трахаются",
+    "discogs": "https://www.discogs.com/release/15854813-Суперкозлы-Трахаются",
+    "genres": [
+      "punk",
+      "garage punk",
+      "hardcore"
+    ],
+    "year": 2019,
+    "country": "Киров, Россия",
+    "label": "Not On Label (Суперкозлы Self-released) (Россия)",
+    "price": 1000,
+    "listen": {
+      "label": "bandcamp",
+      "url": "https://supergoats.bandcamp.com/album/2018"
+    },
+    "image": "images/covers/15854813.jpg",
+    "review": null
+  },
+  {
     "id": "10500247",
     "title": "Фонтан - Days Of Fear",
     "discogs": "https://www.discogs.com/release/10500247-Фонтан-2-Days-Of-Fear",
@@ -505,23 +503,25 @@
     "review": null
   },
   {
-    "id": "15854813",
-    "title": "Суперкозлы - Трахаются",
-    "discogs": "https://www.discogs.com/release/15854813-Суперкозлы-Трахаются",
+    "id": "6473157",
+    "title": "Читай Букварь | Bookwar - Фронт Освобождения Насекомых",
+    "discogs": "https://www.discogs.com/release/6473157-Читай-Букварь-Фронт-Освобождения-Насекомых",
     "genres": [
-      "punk",
-      "garage punk",
-      "hardcore"
+      "experimental",
+      "industrial",
+      "noise",
+      "ambient",
+      "lo-fi"
     ],
-    "year": 2019,
-    "country": "Киров, Россия",
-    "label": "Not On Label (Суперкозлы Self-released) (Россия)",
-    "price": 1000,
+    "year": 2015,
+    "country": "Московская область, Россия",
+    "label": "Bookwar Records (Россия)",
+    "price": 400,
     "listen": {
       "label": "bandcamp",
-      "url": "https://supergoats.bandcamp.com/album/2018"
+      "url": "https://bookwar.bandcamp.com/album/-"
     },
-    "image": "images/covers/15854813.jpg",
+    "image": "images/covers/6473157.jpg",
     "review": null
   }
 ]
